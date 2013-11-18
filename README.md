@@ -1,3 +1,3 @@
-# cloudxls gem
+# cloudxls gem has moved to
 
-This is a simple wrapper for the cloudxls api.
+[https://github.com/cloudxls/cloudxls-ruby](https://github.com/cloudxls/cloudxls-ruby)
